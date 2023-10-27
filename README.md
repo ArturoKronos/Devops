@@ -3,7 +3,6 @@
 
 # Indice 
 1.  Introducción
-   [Introducción](https://github.com/ArturoKronos/Devops/blob/main/Introduccion)
 3.  Administrador de sistemas
 4.  Desarrollador
 5.  Devops
