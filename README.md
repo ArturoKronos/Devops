@@ -3,7 +3,7 @@
 
 # Indice 
 1.  Introducción
- [Introducción](https://github.com/ArturoKronos/Devops/edit/main/Introduccion)
+ [Introduccion](https://github.com/ArturoKronos/Devops/edit/main/Introduccion)
 2.  Administrador de sistemas
   [Asir](https://github.com/ArturoKronos/Devops/blob/main/Asir.md)
 5.  Desarrollador
