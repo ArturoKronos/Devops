@@ -6,7 +6,8 @@
  [Introduccion](https://github.com/ArturoKronos/Devops/edit/main/Introduccion)
 2.  Administrador de sistemas
   [Asir](https://github.com/ArturoKronos/Devops/blob/main/Asir.md)
-5.  Desarrollador
+3.  Desarrollador
+   [Desarrollador](https://github.com/ArturoKronos/Devops/blob/main/desarrollador.md)
 6.  Devops
 
 ## Licencias 
