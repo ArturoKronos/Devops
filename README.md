@@ -7,7 +7,7 @@
 2.  Administrador de sistemas
   [Asir](Asir.md)
 3.  Desarrollador
-   [Desarrollador](https://github.com/ArturoKronos/Devops/blob/main/desarrollador.md)
+   [Desarrollador](desarrollador.md)
 4.  Devops
    [Devops](Devops.md)
 
