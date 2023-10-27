@@ -4,9 +4,10 @@
 # Indice 
 1.  Introducción
    [Introducción](https://github.com/ArturoKronos/Devops/edit/main/Introduccion)
-3.  Administrador de sistemas
-4.  Desarrollador
-5.  Devops
+2.  Administrador de sistemas
+   (https://github.com/ArturoKronos/Devops/blob/main/Asir.md
+5.  Desarrollador
+6.  Devops
 
 ## Licencias 
 ![licencia](https://github.com/ArturoKronos/Devops/assets/145538520/9eb5b395-ba4d-4fa8-afd2-7f7ad494e096)
