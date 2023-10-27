@@ -5,7 +5,7 @@
 1.  Introducción
  [Introduccion](Introduccion.md)
 2.  Administrador de sistemas
-  [Asir](https://github.com/ArturoKronos/Devops/blob/main/Asir.md)
+  [Asir](Asir.md)
 3.  Desarrollador
    [Desarrollador](https://github.com/ArturoKronos/Devops/blob/main/desarrollador.md)
 4.  Devops
