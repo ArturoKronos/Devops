@@ -1,0 +1,1 @@
+Se trata de una formación especializada en la gestión y administración de redes informáticas, donde los profesionales adquieren los conocimientos necesarios para mantener, configurar y asegurar el correcto funcionamiento de los sistemas en red, por medio de la Formación profesional.
